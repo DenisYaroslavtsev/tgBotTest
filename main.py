@@ -3,7 +3,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 import logging
 from keybord import *
 
-API = '7980311368:AAHig7zWActf7biLTC2TjXwUIwaMZdXTBcY'
+API = # api
 logging.basicConfig(level=logging.INFO)
 
 bot = Bot(token=API)
